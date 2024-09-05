@@ -19,3 +19,13 @@ This repository showcases a collection of Power BI projects that demonstrate dat
   - Provided insights on revenue patterns, seasonal trends, and rider demographics.
   - Created interactive visualizations for easy navigation and decision support.
 
+### 2. Data Professional Survey Dashboard
+
+- **Folder:** `Data_Professional_Survey_Dashboard`
+- **Description:** This project involves creating an interactive Power BI dashboard based on survey data from data professionals, providing insights into job satisfaction, salary, tool usage, and demographics.
+- **Key Components:**
+  - `Data Professional Survey.xlsx`: The source data file containing survey responses.
+  - `Data Professional Survey Dashboard.pbix`: Power BI file for the interactive dashboard.
+- **Highlights:**
+  - Analyzed survey data to reveal insights into job satisfaction, salary ranges, and tool usage.
+  - Developed interactive filters and visualizations to enable users to explore data from different perspectives.
