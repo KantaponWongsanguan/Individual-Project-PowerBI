@@ -1,4 +1,4 @@
-# Power BI Projects
+# Power BI Projects Portfolio
 
 This repository showcases a collection of Power BI projects that demonstrate data visualization, analysis, and reporting skills using Microsoft Power BI and SQL. Each project involves creating interactive dashboards and reports to provide actionable insights for business decision-making.
 
