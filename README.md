@@ -29,3 +29,16 @@ This repository showcases a collection of Power BI projects that demonstrate dat
 - **Highlights:**
   - Analyzed survey data to reveal insights into job satisfaction, salary ranges, and tool usage.
   - Developed interactive filters and visualizations to enable users to explore data from different perspectives.
+
+### 3. Pizza Sales KPI Dashboard
+
+- **Folder:** `Pizza_Sales_KPI_Dashboard`
+- **Description:** An interactive Power BI dashboard to track key performance indicators for pizza sales, offering insights into sales trends, order volume, and customer behavior.
+- **Key Components:**
+  - `pizza_sales.csv`: Raw sales data file containing order details and sales amounts.
+  - `pizza_sales_sql.sql`: SQL script for data extraction and preparation.
+  - `Pizza Sales KPI Dashboard.pbix`: Power BI file for the interactive dashboard.
+- **Highlights:**
+  - Visualized key sales metrics, customer insights, and order trends.
+  - Enabled dynamic exploration of sales data through interactive filters and KPI tracking.
+  - Optimized dashboard performance for enhanced user experience.
