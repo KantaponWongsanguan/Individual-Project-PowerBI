@@ -1,8 +1,7 @@
 # Pizza Sales KPI Dashboard
 
-This project involves creating an interactive Power BI dashboard to track key performance indicators (KPIs) for pizza sales. The dashboard provides insights into sales trends, order volume, customer preferences, and overall sales performance.
-
 ## Project Overview
+This project involves analyzing sales data from a pizza delivery business to provide insights into customer behavior, product performance, and sales trends.
 
 - **File:** `Pizza Sales KPI Dashboard.pbix`
   - An interactive Power BI dashboard visualizing key metrics and performance indicators for pizza sales.
@@ -17,20 +16,34 @@ This project involves creating an interactive Power BI dashboard to track key pe
 - **KPI Tracking:** Tracks dynamic KPIs to monitor sales performance, order volume, and other critical metrics.
 - **Interactive Filters:** Provides slicers and filters for dynamic exploration of the sales data by different dimensions such as time, location, and product.
 
-## How to Use
-
-1. **Open the Power BI Dashboard:**
-   - Open the `Pizza Sales KPI Dashboard.pbix` file in Power BI Desktop.
-
-2. **Explore the Dashboard:**
-   - Use the interactive filters and visuals to explore sales trends, customer insights, and other key performance indicators.
-
-3. **Run SQL Script:**
-   - Use the `pizza_sales_sql.sql` script to prepare and clean the data from the `pizza_sales.csv` file if needed.
-
 ## Project Highlights
 
 - Built an interactive dashboard to visualize key performance indicators for pizza sales.
 - Provided insights into sales trends, customer behavior, and order patterns.
 - Enabled stakeholders to make data-driven decisions through dynamic filters and KPI tracking.
 
+## Goals
+- To optimize inventory, pricing, and marketing strategies through detailed sales analysis.
+- To support sales managers with data-driven decision-making.
+
+## Specific KPIs / Key Project Steps
+1. **Data Cleaning and Preparation:**
+   - Cleaned and preprocessed sales data using Power BI’s Power Query Editor.
+   - Standardized data formats for consistency.
+
+2. **Dashboard Development:**
+   - Created visualizations to display sales trends, top-selling products, customer demographics, and regional performance.
+   - Developed KPI tracking for revenue, profit margins, and sales growth.
+
+3. **Sales Analysis:**
+   - Analyzed sales performance to identify high-performing products and regions.
+   - Provided actionable insights for inventory management and promotional strategies.
+
+## Recommendations / Insights
+- Optimized sales strategies based on customer preferences and regional performance.
+- Improved inventory management by identifying top-selling products and reducing stockouts.
+
+## Technical Stack
+- **Power BI:** Data visualization and dashboard creation.
+- **Power Query:** Data transformation and preparation.
+- **DAX (Data Analysis Expressions):** Used for creating calculated metrics and measures.
