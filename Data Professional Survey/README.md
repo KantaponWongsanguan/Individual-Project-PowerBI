@@ -1,13 +1,7 @@
 # Data Professional Survey Dashboard
 
-This project involves creating an interactive Power BI dashboard based on survey data from data professionals. The dashboard provides insights into various aspects of data professionals' roles, including job satisfaction, tools used, salary ranges, and more.
-
 ## Project Overview
-
-- **File:** `Data Professional Survey Dashboard.pbix`
-  - An interactive Power BI dashboard visualizing key insights from the survey data.
-- **Data Source:** `Data Professional Survey.xlsx`
-  - Contains survey responses from data professionals on various topics such as job satisfaction, salary, and tools used.
+This project visualizes the results of a survey conducted among data professionals, providing insights into industry trends, salary benchmarks, and skill demands.
 
 ### Key Features
 
@@ -17,21 +11,32 @@ This project involves creating an interactive Power BI dashboard based on survey
 - **Demographic Breakdown:** Displays demographics such as experience level, industry, and region to provide context to the survey data.
 - **Interactive Filters:** Allows users to filter the data by different attributes such as role, experience, and country to gain deeper insights.
 
-## How to Use
-
-1. **Open the Power BI Dashboard:**
-   - Open the `Data Professional Survey Dashboard.pbix` file in Power BI Desktop.
-   
-2. **Explore the Dashboard:**
-   - Use the interactive filters and visuals to explore the survey data and gain insights on various aspects of the data professional landscape.
-
-3. **Analyze the Data:**
-   - Drill down into the data using various filters to focus on specific demographics, roles, or technologies.
-
 ## Project Highlights
 
 - Developed an interactive dashboard to visualize survey data from data professionals.
 - Provided key insights into job satisfaction, salary, tool usage, and demographics.
 - Enabled stakeholders to explore the data through interactive filters for deeper analysis.
 
+## Goals
+- To analyze and visualize survey data to understand key trends and benchmarks in the data profession.
+- To support HR departments in identifying skill gaps and optimizing hiring strategies.
 
+## Specific KPIs / Key Project Steps
+1. **Data Preparation:**
+   - Imported and cleaned survey data using Power BI’s Power Query Editor.
+   - Transformed data to ensure consistency and accuracy.
+
+2. **Dashboard Development:**
+   - Developed interactive visualizations to display key insights, such as average salaries, in-demand skills, and job satisfaction levels.
+   - Enabled dynamic filtering for users to explore data by region, job title, and experience level.
+
+3. **Reporting:**
+   - Created reports to support HR teams in talent acquisition and workforce development.
+
+## Recommendations / Insights
+- Identified in-demand skills and salary benchmarks, enabling data-driven hiring and development strategies.
+- Provided insights into job satisfaction and trends among data professionals.
+
+## Technical Stack
+- **Power BI:** Data visualization and dashboard development.
+- **Power Query:** Data preparation and transformation.
