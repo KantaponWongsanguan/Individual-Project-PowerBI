@@ -1,44 +1,56 @@
-# Power BI Projects Portfolio
+# Power BI Projects
 
-This repository showcases a collection of Power BI projects that demonstrate data visualization, analysis, and reporting skills using Microsoft Power BI and SQL. Each project involves creating interactive dashboards and reports to provide actionable insights for business decision-making.
+## Project Overview
+These Power BI projects involve creating interactive dashboards and visualizations to analyze various datasets, providing valuable insights for business decision-making. The projects demonstrate the use of Power BI for data modeling, visualization, and reporting, focusing on solving real-world business problems and enhancing data-driven strategies.
 
-## Projects Overview
+## Goals
+The objectives of these projects are to:
+- Develop interactive dashboards to visualize key performance indicators (KPIs) and metrics.
+- Provide actionable insights through data analysis and visualization to support strategic decision-making.
+- Optimize data retrieval and presentation for improved business intelligence.
 
-### 1. Toman Bike Share Dashboard
+## Business Problems Solved
+- **Sales and Marketing Strategy Optimization:** Analyzed sales trends, customer demographics, and purchasing behaviors to help businesses tailor marketing strategies and improve customer targeting.
+- **Operational Efficiency:** Created dashboards to monitor real-time performance metrics, enabling quicker responses to business changes and enhancing operational efficiency.
+- **Decision Support:** Provided data-driven insights and visualizations to support executive decision-making and strategic planning.
 
-- **Folder:** `Toman_Bike_Share_Dashboard`
-- **Description:** This project develops an end-to-end dashboard for "Toman Bike Share," visualizing key performance metrics to support informed decision-making. The dashboard provides insights into hourly revenue, profit trends, seasonal revenue, and rider demographics.
-- **Key Components:**
-  - `bike_share_yr_0.csv`: Year 2020 bike share data.
-  - `bike_share_yr_1.csv`: Year 2021 bike share data.
-  - `cost_table.csv`: Cost data associated with the bike-sharing program.
-  - `SQL query bike_share_data.sql`: SQL queries for extracting, cleaning, and transforming data.
-  - `Toman Bike Shop bike_share_data Dashboard.pbix`: Power BI file containing the interactive dashboard.
-- **Highlights:**
-  - Developed a comprehensive Power BI dashboard using SQL queries for data preparation.
-  - Provided insights on revenue patterns, seasonal trends, and rider demographics.
-  - Created interactive visualizations for easy navigation and decision support.
+## Specific KPIs / Key Project Steps
 
-### 2. Data Professional Survey Dashboard
+### 1. **End-to-End SQL & Power BI Project: Layoff Analysis**
+- **Objective:** Analyze global layoffs data to provide insights into industry trends, affected regions, and key timeframes.
+- **Business Problem Solved:** Helps HR teams and decision-makers identify patterns in workforce reductions, enabling strategic planning and risk mitigation.
+- **Key Steps:**
+  - Cleaned and transformed raw data using SQL for accurate analysis.
+  - Created interactive Power BI dashboards to visualize layoffs by industry, region, company stage, and timeline.
+  - Implemented trend analysis and rolling summaries to highlight peak periods and affected sectors.
+- **Result:** Provided a comprehensive overview of layoffs data to inform workforce management strategies.
 
-- **Folder:** `Data_Professional_Survey_Dashboard`
-- **Description:** This project involves creating an interactive Power BI dashboard based on survey data from data professionals, providing insights into job satisfaction, salary, tool usage, and demographics.
-- **Key Components:**
-  - `Data Professional Survey.xlsx`: The source data file containing survey responses.
-  - `Data Professional Survey Dashboard.pbix`: Power BI file for the interactive dashboard.
-- **Highlights:**
-  - Analyzed survey data to reveal insights into job satisfaction, salary ranges, and tool usage.
-  - Developed interactive filters and visualizations to enable users to explore data from different perspectives.
+### 2. **Data Professional Survey Dashboard**
+- **Objective:** Visualize the results of a survey conducted among data professionals to understand industry trends, salary benchmarks, and skill demands.
+- **Business Problem Solved:** Assists businesses and HR departments in identifying skill gaps, optimizing hiring strategies, and understanding industry standards.
+- **Key Steps:**
+  - Imported and transformed survey data using Power BI.
+  - Developed a dashboard to display key insights such as average salaries, in-demand skills, and job satisfaction levels.
+  - Enabled interactive filtering to allow users to explore the data by region, job title, and experience level.
+- **Result:** Delivered an insightful dashboard that supports HR teams in talent acquisition and workforce development.
 
-### 3. Pizza Sales KPI Dashboard
+### 3. **Pizza Sales KPI Dashboard**
+- **Objective:** Analyze sales performance data from a pizza delivery business to optimize inventory, pricing, and marketing strategies.
+- **Business Problem Solved:** Provides sales managers with a clear understanding of product performance, customer preferences, and profitability to guide promotional strategies and inventory management.
+- **Key Steps:**
+  - Cleaned and prepared sales data using Power BI's Power Query Editor.
+  - Created interactive visualizations to display sales trends, top-selling products, customer demographics, and regional performance.
+  - Implemented key performance indicator (KPI) tracking to monitor revenue, profit margins, and sales growth.
+- **Result:** Enabled data-driven decision-making to enhance sales strategies and optimize inventory management.
 
-- **Folder:** `Pizza_Sales_KPI_Dashboard`
-- **Description:** An interactive Power BI dashboard to track key performance indicators for pizza sales, offering insights into sales trends, order volume, and customer behavior.
-- **Key Components:**
-  - `pizza_sales.csv`: Raw sales data file containing order details and sales amounts.
-  - `pizza_sales_sql.sql`: SQL script for data extraction and preparation.
-  - `Pizza Sales KPI Dashboard.pbix`: Power BI file for the interactive dashboard.
-- **Highlights:**
-  - Visualized key sales metrics, customer insights, and order trends.
-  - Enabled dynamic exploration of sales data through interactive filters and KPI tracking.
-  - Optimized dashboard performance for enhanced user experience.
+## Recommendations / Insights
+- **Workforce Insights:** Identified patterns in layoffs, assisting in risk management and strategic workforce planning.
+- **Talent Strategy:** Provided insights into industry trends and skill demands, supporting effective hiring and development strategies.
+- **Sales Optimization:** Enhanced understanding of customer behavior and sales performance, leading to better marketing and inventory strategies.
+
+## Technical Stack
+- **Power BI:** Utilized for data visualization, dashboard development, and KPI tracking.
+- **SQL:** Employed for data extraction, cleaning, and transformation before visualization.
+- **Power Query:** Used to prepare and transform data for analysis.
+- **DAX (Data Analysis Expressions):** Implemented for creating calculated columns and measures in Power BI.
+- **Excel:** Supported initial data handling and integration with Power BI.
