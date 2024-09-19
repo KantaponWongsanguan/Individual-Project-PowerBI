@@ -1,6 +1,8 @@
 # Toman Bike Share Dashboard Project
 The Toman Bike Share Project aims to analyze bike-sharing data to provide insights into customer usage patterns, optimize bike inventory management, and improve operational efficiency. This project utilizes SQL for data extraction and cleaning, and Power BI for data visualization and reporting.
 
+![Toman Bike Shop Dashboard](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Toman%20Bike%20shop%20Key%20Performace%20Metrics.png>)
+
 ## Project Overview
 
 The goal of this project is to develop a dashboard that visualizes critical business metrics for the "Toman Bike Share" program. This dashboard will assist stakeholders in making data-driven decisions by presenting clear and actionable insights.
