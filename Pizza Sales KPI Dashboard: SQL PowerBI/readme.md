@@ -1,5 +1,7 @@
 # Pizza Sales KPI Dashboard
 
+![Pizza Sales Report](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Pizza%20Sales%20Report.png>)
+
 ## Project Overview
 This project involves analyzing sales data from a pizza delivery business to provide insights into customer behavior, product performance, and sales trends.
 
