@@ -23,6 +23,7 @@ The objectives of these projects are to:
   - Analyzed seasonal trends to recommend inventory adjustments and operational changes.
 - **Result:** Provided insights that helped optimize bike availability, leading to improved customer satisfaction and operational efficiency.
 
+![Toman Bike Shop Dashboard](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Toman%20Bike%20shop%20Key%20Performace%20Metrics.png>)
 ---
 
 ### 2. **Pizza Sales KPI Dashboard: SQL & Power BI**
@@ -34,6 +35,7 @@ The objectives of these projects are to:
   - Implemented KPI tracking for revenue, profit margins, and sales growth.
 - **Result:** Enabled data-driven decision-making to enhance sales strategies and optimize inventory management.
 
+![Pizza Sales Report](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Pizza%20Sales%20Report.png>)
 ---
 
 ### 3. **HR Report Excel & Power BI**
@@ -45,6 +47,7 @@ The objectives of these projects are to:
   - Conducted trend analysis to provide insights into areas for improvement in employee retention and performance.
 - **Result:** Delivered data-driven insights that informed HR strategies for improving employee retention and development.
 
+![HR Report](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20HR%20report.png>)
 ---
 
 ### 4. **Data Professional Survey Dashboard**
