@@ -1,7 +1,5 @@
 # Power BI Projects
 
-![Toman Bike Shop Dashboard](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Toman%20Bike%20shop%20Key%20Performace%20Metrics.png>)
-
 ## Project Overview
 These Power BI projects involve creating interactive dashboards and visualizations to analyze various datasets, providing valuable insights for business decision-making. The projects demonstrate the use of Power BI for data modeling, visualization, and reporting, focusing on solving real-world business problems and enhancing data-driven strategies.
 
