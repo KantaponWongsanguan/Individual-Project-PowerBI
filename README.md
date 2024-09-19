@@ -42,6 +42,8 @@ The objectives of these projects are to:
   - Created interactive visualizations to display sales trends, top-selling products, customer demographics, and regional performance.
   - Implemented key performance indicator (KPI) tracking to monitor revenue, profit margins, and sales growth.
 - **Result:** Enabled data-driven decision-making to enhance sales strategies and optimize inventory management.
+  
+![Pizza Sales Report](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Pizza%20Sales%20Report.png>)
 
 ## Recommendations / Insights
 - **Workforce Insights:** Identified patterns in layoffs, assisting in risk management and strategic workforce planning.
