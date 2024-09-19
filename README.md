@@ -14,41 +14,70 @@ The objectives of these projects are to:
 - **Operational Efficiency:** Created dashboards to monitor real-time performance metrics, enabling quicker responses to business changes and enhancing operational efficiency.
 - **Decision Support:** Provided data-driven insights and visualizations to support executive decision-making and strategic planning.
 
-## Specific KPIs / Key Project Steps
-
-### 1. **End-to-End SQL & Power BI Project: Layoff Analysis**
-- **Objective:** Analyze global layoffs data to provide insights into industry trends, affected regions, and key timeframes.
-- **Business Problem Solved:** Helps HR teams and decision-makers identify patterns in workforce reductions, enabling strategic planning and risk mitigation.
+### 1. **Toman Bike Share Dashboard Project: SQL & Power BI**
+- **Objective:** Analyze bike-sharing data to provide insights into customer usage patterns and optimize bike availability.
+- **Business Problem Solved:** Supports better service planning by understanding customer behavior and improving resource allocation.
 - **Key Steps:**
-  - Cleaned and transformed raw data using SQL for accurate analysis.
-  - Created interactive Power BI dashboards to visualize layoffs by industry, region, company stage, and timeline.
-  - Implemented trend analysis and rolling summaries to highlight peak periods and affected sectors.
-- **Result:** Provided a comprehensive overview of layoffs data to inform workforce management strategies.
+  - Cleaned and transformed bike-share data using SQL for accurate reporting.
+  - Developed Power BI dashboards to visualize customer usage, bike availability, and peak demand times.
+  - Analyzed seasonal trends to recommend inventory adjustments and operational changes.
+- **Result:** Provided insights that helped optimize bike availability, leading to improved customer satisfaction and operational efficiency.
 
-### 2. **Data Professional Survey Dashboard**
-- **Objective:** Visualize the results of a survey conducted among data professionals to understand industry trends, salary benchmarks, and skill demands.
-- **Business Problem Solved:** Assists businesses and HR departments in identifying skill gaps, optimizing hiring strategies, and understanding industry standards.
-- **Key Steps:**
-  - Imported and transformed survey data using Power BI.
-  - Developed a dashboard to display key insights such as average salaries, in-demand skills, and job satisfaction levels.
-  - Enabled interactive filtering to allow users to explore the data by region, job title, and experience level.
-- **Result:** Delivered an insightful dashboard that supports HR teams in talent acquisition and workforce development.
+---
 
-### 3. **Pizza Sales KPI Dashboard**
-- **Objective:** Analyze sales performance data from a pizza delivery business to optimize inventory, pricing, and marketing strategies.
-- **Business Problem Solved:** Provides sales managers with a clear understanding of product performance, customer preferences, and profitability to guide promotional strategies and inventory management.
+### 2. **Pizza Sales KPI Dashboard: SQL & Power BI**
+- **Objective:** Analyze pizza sales data to optimize inventory, pricing, and marketing strategies.
+- **Business Problem Solved:** Helps sales managers understand product performance, customer preferences, and profitability to guide strategic decisions.
 - **Key Steps:**
-  - Cleaned and prepared sales data using Power BI's Power Query Editor.
-  - Created interactive visualizations to display sales trends, top-selling products, customer demographics, and regional performance.
-  - Implemented key performance indicator (KPI) tracking to monitor revenue, profit margins, and sales growth.
+  - Cleaned and transformed sales data using SQL and Power Query in Power BI.
+  - Created interactive visualizations to display sales trends, top-selling products, and customer demographics.
+  - Implemented KPI tracking for revenue, profit margins, and sales growth.
 - **Result:** Enabled data-driven decision-making to enhance sales strategies and optimize inventory management.
-  
-![Pizza Sales Report](<https://github.com/KantaponWongsanguan/PowerBI-Portfolio/blob/main/Dashboard%20Pizza%20Sales%20Report.png>)
+
+---
+
+### 3. **HR Report Excel & Power BI**
+- **Objective:** Analyze employee performance, turnover, and engagement data to support HR teams in making informed decisions.
+- **Business Problem Solved:** Helps HR departments understand workforce trends and improve retention and employee development strategies.
+- **Key Steps:**
+  - Cleaned and standardized HR data using Excel and Power BI’s Power Query.
+  - Built Power BI dashboards to visualize employee performance, engagement scores, and turnover rates.
+  - Conducted trend analysis to provide insights into areas for improvement in employee retention and performance.
+- **Result:** Delivered data-driven insights that informed HR strategies for improving employee retention and development.
+
+---
+
+### 4. **Data Professional Survey Dashboard**
+- **Objective:** Visualize survey data to reveal industry trends, salary benchmarks, and skill demands among data professionals.
+- **Business Problem Solved:** Assists HR teams and businesses in identifying skill gaps and optimizing hiring strategies.
+- **Key Steps:**
+  - Transformed survey data in Power BI.
+  - Developed a dashboard showcasing average salaries, in-demand skills, and job satisfaction.
+  - Implemented interactive filters to explore data by region, job title, and experience level.
+- **Result:** Delivered actionable insights for HR teams to improve talent acquisition and workforce development strategies.
+
+---
 
 ## Recommendations / Insights
-- **Workforce Insights:** Identified patterns in layoffs, assisting in risk management and strategic workforce planning.
-- **Talent Strategy:** Provided insights into industry trends and skill demands, supporting effective hiring and development strategies.
-- **Sales Optimization:** Enhanced understanding of customer behavior and sales performance, leading to better marketing and inventory strategies.
+- **Data Professional Survey Dashboard:**
+  - Identified key skill gaps for targeted reskilling/upskilling efforts.
+  - Highlighted high-paying regions and roles for recruitment focus.
+  - Provided insights to improve employee retention through job satisfaction analysis.
+  
+- **Pizza Sales KPI Dashboard:**
+  - Suggested targeted promotions based on top-selling products.
+  - Recommended inventory adjustments based on regional sales patterns.
+  - Delivered insights into customer demographics for tailored marketing campaigns.
+
+- **Toman Bike Share Dashboard:**
+  - Suggested redistribution of bikes to high-demand areas to improve availability.
+  - Recommended operational changes during peak times to enhance customer experience.
+  - Identified underperforming locations for potential service improvements or new station setups.
+
+- **HR Report Excel & Power BI:**
+  - Identified high-turnover departments and recommended retention strategies.
+  - Suggested training programs based on employee performance data.
+  - Provided insights into employee engagement to enhance workplace satisfaction.
 
 ## Technical Stack
 - **Power BI:** Utilized for data visualization, dashboard development, and KPI tracking.
